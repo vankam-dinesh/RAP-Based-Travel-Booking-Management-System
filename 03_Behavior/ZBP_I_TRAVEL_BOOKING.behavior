@@ -1,0 +1,14 @@
+
+managed;
+authorization master ( none );
+
+define behavior for ZI_TRAVEL_BOOKING
+persistent table ztb_travel_booking
+lock master
+{
+  create;
+  update;
+  delete;
+
+  field ( readonly ) travel_id;
+}
