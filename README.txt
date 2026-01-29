@@ -10,7 +10,7 @@ A modern SAP RAP application built using CDS Views, Managed Behavior, OData V4, 
 - Fiori Elements List Report & Object Page
 
 ## Technologies
-- ABAP RAP
+- ABAP RAP                      
 - CDS Views
 - OData V4
 - SAP Clean Core
