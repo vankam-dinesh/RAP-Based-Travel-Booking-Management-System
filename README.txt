@@ -12,7 +12,7 @@ A modern SAP RAP application built using CDS Views, Managed Behavior, OData V4, 
 ## Technologies
 - ABAP RAP                      
 - CDS Views
-- OData V4
+- OData V4                                                         
 - SAP Clean Core                                                                                                      
 
 ## Author
