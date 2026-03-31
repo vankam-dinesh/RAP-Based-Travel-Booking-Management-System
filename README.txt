@@ -5,7 +5,7 @@ A modern SAP RAP application built using CDS Views, Managed Behavior, OData V4, 
 
 ## Features
 - Create, Update, Delete Travel Bookings
-- CDS-based data model
+- CDS-based data model                                                                    
 - RAP Managed Scenario   
 - Fiori Elements List Report & Object Page                           
 
